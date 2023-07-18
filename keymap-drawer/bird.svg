@@ -116,44 +116,44 @@ rect.high {
 <text x="180.0" y="84.0" class="medium-high tap">l</text>
 <rect rx="6.0" ry="6.0" x="212.0" y="58.0" width="56.0" height="52.0" class="medium key"/>
 <text x="240.0" y="84.0" class="medium tap">f</text>
-<rect rx="6.0" ry="6.0" x="272.0" y="86.0" width="56.0" height="52.0" class="medium key"/>
-<text x="300.0" y="112.0" class="medium tap">y</text>
-<rect rx="6.0" ry="6.0" x="362.0" y="86.0" width="56.0" height="52.0" class="high key"/>
-<text x="390.0" y="112.0" class="high tap">o</text>
-<rect rx="6.0" ry="6.0" x="422.0" y="58.0" width="56.0" height="52.0" class="medium-high key"/>
-<text x="450.0" y="84.0" class="medium-high tap">u</text>
-<rect rx="6.0" ry="6.0" x="482.0" y="58.0" width="56.0" height="52.0" class="low key"/>
-<text x="510.0" y="84.0" class="low tap">&#x27;</text>
-<rect rx="6.0" ry="6.0" x="542.0" y="58.0" width="56.0" height="52.0" class="high key"/>
-<text x="570.0" y="84.0" class="high tap">r</text>
-<rect rx="6.0" ry="6.0" x="602.0" y="86.0" width="56.0" height="52.0" class="high key"/>
-<text x="630.0" y="112.0" class="high tap">s</text>
+<rect rx="6.0" ry="6.0" x="272.0" y="86.0" width="56.0" height="52.0" class="medium-low key"/>
+<text x="300.0" y="112.0" class="medium-low tap">p</text>
+<rect rx="6.0" ry="6.0" x="362.0" y="86.0" width="56.0" height="52.0" class="low key"/>
+<text x="390.0" y="112.0" class="low tap">k</text>
+<rect rx="6.0" ry="6.0" x="422.0" y="58.0" width="56.0" height="52.0" class="medium key"/>
+<text x="450.0" y="84.0" class="medium tap">y</text>
+<rect rx="6.0" ry="6.0" x="482.0" y="58.0" width="56.0" height="52.0" class="high key"/>
+<text x="510.0" y="84.0" class="high tap">o</text>
+<rect rx="6.0" ry="6.0" x="542.0" y="58.0" width="56.0" height="52.0" class="medium-high key"/>
+<text x="570.0" y="84.0" class="medium-high tap">u</text>
+<rect rx="6.0" ry="6.0" x="602.0" y="86.0" width="56.0" height="52.0" class="low key"/>
+<text x="630.0" y="112.0" class="low tap">&#x27;</text>
 <rect rx="6.0" ry="6.0" x="32.0" y="142.0" width="56.0" height="52.0" class="high key"/>
-<text x="60.0" y="168.0" class="high tap">n</text>
+<text x="60.0" y="168.0" class="high tap">r</text>
 <rect rx="6.0" ry="6.0" x="92.0" y="114.0" width="56.0" height="52.0" class="high key"/>
-<text x="120.0" y="140.0" class="high tap">t</text>
-<rect rx="6.0" ry="6.0" x="152.0" y="114.0" width="56.0" height="52.0" class="medium-low key"/>
-<text x="180.0" y="140.0" class="medium-low tap">p</text>
-<rect rx="6.0" ry="6.0" x="212.0" y="114.0" width="56.0" height="52.0" class="low key"/>
-<text x="240.0" y="140.0" class="low tap">k</text>
-<rect rx="6.0" ry="6.0" x="272.0" y="142.0" width="56.0" height="52.0" class="high key"/>
-<text x="300.0" y="168.0" class="high tap">h</text>
-<rect rx="6.0" ry="6.0" x="362.0" y="142.0" width="56.0" height="52.0" class="high key"/>
-<text x="390.0" y="168.0" class="high tap">e</text>
+<text x="120.0" y="140.0" class="high tap">s</text>
+<rect rx="6.0" ry="6.0" x="152.0" y="114.0" width="56.0" height="52.0" class="high key"/>
+<text x="180.0" y="140.0" class="high tap">n</text>
+<rect rx="6.0" ry="6.0" x="212.0" y="114.0" width="56.0" height="52.0" class="high key"/>
+<text x="240.0" y="140.0" class="high tap">t</text>
+<rect rx="6.0" ry="6.0" x="272.0" y="142.0" width="56.0" height="52.0" class="medium-low key"/>
+<text x="300.0" y="168.0" class="medium-low tap">b</text>
+<rect rx="6.0" ry="6.0" x="362.0" y="142.0" width="56.0" height="52.0" class="low key"/>
+<text x="390.0" y="168.0" class="low tap">j</text>
 <rect rx="6.0" ry="6.0" x="422.0" y="114.0" width="56.0" height="52.0" class="high key"/>
-<text x="450.0" y="140.0" class="high tap">i</text>
+<text x="450.0" y="140.0" class="high tap">h</text>
 <rect rx="6.0" ry="6.0" x="482.0" y="114.0" width="56.0" height="52.0" class="high key"/>
-<text x="510.0" y="140.0" class="high tap">a</text>
-<rect rx="6.0" ry="6.0" x="542.0" y="114.0" width="56.0" height="52.0" class="medium key"/>
-<text x="570.0" y="140.0" class="medium tap">w</text>
-<rect rx="6.0" ry="6.0" x="602.0" y="142.0" width="56.0" height="52.0" class="medium key"/>
-<text x="630.0" y="168.0" class="medium tap">m</text>
+<text x="510.0" y="140.0" class="high tap">e</text>
+<rect rx="6.0" ry="6.0" x="542.0" y="114.0" width="56.0" height="52.0" class="high key"/>
+<text x="570.0" y="140.0" class="high tap">i</text>
+<rect rx="6.0" ry="6.0" x="602.0" y="142.0" width="56.0" height="52.0" class="high key"/>
+<text x="630.0" y="168.0" class="high tap">a</text>
 <rect rx="6.0" ry="6.0" x="92.0" y="170.0" width="56.0" height="52.0" class="medium key"/>
-<text x="120.0" y="196.0" class="medium tap">g</text>
-<rect rx="6.0" ry="6.0" x="152.0" y="170.0" width="56.0" height="52.0" class="medium-low key"/>
-<text x="180.0" y="196.0" class="medium-low tap">b</text>
-<rect rx="6.0" ry="6.0" x="212.0" y="170.0" width="56.0" height="52.0" class="low key"/>
-<text x="240.0" y="196.0" class="low tap">j</text>
+<text x="120.0" y="196.0" class="medium tap">w</text>
+<rect rx="6.0" ry="6.0" x="152.0" y="170.0" width="56.0" height="52.0" class="medium key"/>
+<text x="180.0" y="196.0" class="medium tap">m</text>
+<rect rx="6.0" ry="6.0" x="212.0" y="170.0" width="56.0" height="52.0" class="medium key"/>
+<text x="240.0" y="196.0" class="medium tap">g</text>
 <rect rx="6.0" ry="6.0" x="422.0" y="170.0" width="56.0" height="52.0" class="medium-high key"/>
 <text x="450.0" y="196.0" class="medium-high tap">d</text>
 <rect rx="6.0" ry="6.0" x="482.0" y="170.0" width="56.0" height="52.0" class="medium-low key"/>
