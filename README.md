@@ -2,7 +2,7 @@
 
 ## Layout
 
-*Generated with [keymap-drawer](https://github.com/caksoylar/keymap-drawer)*
+*Visuals generated with [keymap-drawer](https://github.com/caksoylar/keymap-drawer)*
 
 ![](keymap-drawer/bird.svg)
 
