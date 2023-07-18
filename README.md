@@ -4,26 +4,26 @@
 
 ### bird
 ```
-x c l f       y o u ,
+x c l f       y o u '
 r s n t p   k h e i a
-  w m g b   j d ' .  
+  w m g b   j d , .  
 ```
 
 ### bird-30
 ```
-x c l f v   z y o u ,
+x c l f v   z y o u '
 r s n t p   k h e i a
-q w m g b   j d ' . /
+q w m g b   j d , . /
 ```
 
 ### bird-rs (angle mod)
 ```
-x c l f v z y o u ,
+x c l f v z y o u '
 r s n t p k h e i a
- w m g b q j d ' . /
+ w m g b q j d , . /
 ```
 
-Standard Punctuation: swap `,` -> `'`
+Optimized Punctuation: swap `,` -> `'`
 
 ## Design
 Goals
@@ -36,6 +36,7 @@ Goals
 - Low pinky rolls
 - Low-er upper index usage
 - Upper middle and lower index preferred off home row positions
+- Traditional punctuation placement
 
 Outcomes of the above goals
 - High alternation
