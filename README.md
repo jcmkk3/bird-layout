@@ -41,6 +41,7 @@ Goals
 Outcomes of the above goals
 - High alternation
 - Low-er one hands
+- Top row gravity
 
 ## Credits
 - Alan
