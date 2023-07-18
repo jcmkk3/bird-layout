@@ -1,0 +1,173 @@
+<svg width="662.0" height="280.0" viewBox="0 0 662.0 280.0" class="keymap" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style>/* inherit to force styles through use tags*/
+svg path {
+    fill: inherit;
+}
+/* font and background color specifications */
+svg.keymap {
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    font-size: 14px;
+    font-kerning: normal;
+    text-rendering: optimizeLegibility;
+    fill: #24292e;
+}
+
+/* default key styling */
+rect.key {
+    fill: #f6f8fa;
+    stroke: #c9cccf;
+    stroke-width: 1;
+}
+
+/* color accent for combo boxes */
+rect.combo {
+    fill: #cdf;
+}
+
+/* color accent for held keys */
+rect.held, rect.combo.held {
+    fill: #fdd;
+}
+
+/* color accent for ghost (optional) keys */
+rect.ghost, rect.combo.ghost {
+    stroke-dasharray: 4, 4;
+    stroke-width: 2;
+}
+
+text {
+    text-anchor: middle;
+    dominant-baseline: middle;
+}
+
+/* styling for layer labels */
+text.label {
+    font-weight: bold;
+    text-anchor: start;
+    stroke: white;
+    stroke-width: 2;
+    paint-order: stroke;
+}
+
+/* styling for combo tap, and key hold/shifted label text */
+text.combo, text.hold, text.shifted {
+    font-size: 11px;
+}
+
+text.hold {
+    text-anchor: middle;
+    dominant-baseline: auto;
+}
+
+text.shifted {
+    text-anchor: middle;
+    dominant-baseline: hanging;
+}
+
+/* styling for hold/shifted label text in combo box */
+text.combo.hold, text.combo.shifted {
+    font-size: 8px;
+}
+
+/* lighter symbol for transparent keys */
+text.trans {
+    fill: #7b7e81;
+}
+
+/* styling for combo dendrons */
+path.combo {
+    stroke-width: 1;
+    stroke: gray;
+    fill: none;
+}
+
+/* Start Tabler Icons Cleanup */
+/* cannot use height/width with glyphs */
+.icon-tabler > path {
+    fill: inherit;
+    stroke: inherit;
+}
+/* hide tabler's default box */
+.icon-tabler > path[stroke="none"][fill="none"] {
+    visibility: collapse;
+}
+rect.low {
+    fill: #355978;
+}
+rect.medium-low {
+    fill: #636696;
+}
+rect.medium {
+    fill: #9E6DA4;
+}
+rect.medium-high {
+    fill: #D7749D;
+}
+rect.high {
+    fill: #FF8585;
+}
+</style>
+<g class="layer-bird-rs (angle mod)">
+<text x="30.0" y="28.0" class="label">bird-rs (angle mod)</text>
+<rect rx="6.0" ry="6.0" x="32.0" y="58.0" width="52.0" height="52.0" class="low key"/>
+<text x="58.0" y="84.0" class="low tap">x</text>
+<rect rx="6.0" ry="6.0" x="88.0" y="58.0" width="52.0" height="52.0" class="medium key"/>
+<text x="114.0" y="84.0" class="medium tap">c</text>
+<rect rx="6.0" ry="6.0" x="144.0" y="58.0" width="52.0" height="52.0" class="medium-high key"/>
+<text x="170.0" y="84.0" class="medium-high tap">l</text>
+<rect rx="6.0" ry="6.0" x="200.0" y="58.0" width="52.0" height="52.0" class="medium key"/>
+<text x="226.0" y="84.0" class="medium tap">f</text>
+<rect rx="6.0" ry="6.0" x="256.0" y="58.0" width="52.0" height="52.0" class="medium-low key"/>
+<text x="282.0" y="84.0" class="medium-low tap">v</text>
+<rect rx="6.0" ry="6.0" x="312.0" y="58.0" width="52.0" height="52.0" class="low key"/>
+<text x="338.0" y="84.0" class="low tap">z</text>
+<rect rx="6.0" ry="6.0" x="368.0" y="58.0" width="52.0" height="52.0" class="medium key"/>
+<text x="394.0" y="84.0" class="medium tap">y</text>
+<rect rx="6.0" ry="6.0" x="424.0" y="58.0" width="52.0" height="52.0" class="high key"/>
+<text x="450.0" y="84.0" class="high tap">o</text>
+<rect rx="6.0" ry="6.0" x="480.0" y="58.0" width="52.0" height="52.0" class="medium-high key"/>
+<text x="506.0" y="84.0" class="medium-high tap">u</text>
+<rect rx="6.0" ry="6.0" x="536.0" y="58.0" width="52.0" height="52.0" class="low key"/>
+<text x="562.0" y="84.0" class="low tap">&#x27;</text>
+<rect rx="6.0" ry="6.0" x="46.0" y="114.0" width="52.0" height="52.0" class="high key"/>
+<text x="72.0" y="140.0" class="high tap">r</text>
+<rect rx="6.0" ry="6.0" x="102.0" y="114.0" width="52.0" height="52.0" class="high key"/>
+<text x="128.0" y="140.0" class="high tap">s</text>
+<rect rx="6.0" ry="6.0" x="158.0" y="114.0" width="52.0" height="52.0" class="high key"/>
+<text x="184.0" y="140.0" class="high tap">n</text>
+<rect rx="6.0" ry="6.0" x="214.0" y="114.0" width="52.0" height="52.0" class="high key"/>
+<text x="240.0" y="140.0" class="high tap">t</text>
+<rect rx="6.0" ry="6.0" x="270.0" y="114.0" width="52.0" height="52.0" class="medium-low key"/>
+<text x="296.0" y="140.0" class="medium-low tap">p</text>
+<rect rx="6.0" ry="6.0" x="326.0" y="114.0" width="52.0" height="52.0" class="low key"/>
+<text x="352.0" y="140.0" class="low tap">k</text>
+<rect rx="6.0" ry="6.0" x="382.0" y="114.0" width="52.0" height="52.0" class="high key"/>
+<text x="408.0" y="140.0" class="high tap">h</text>
+<rect rx="6.0" ry="6.0" x="438.0" y="114.0" width="52.0" height="52.0" class="high key"/>
+<text x="464.0" y="140.0" class="high tap">e</text>
+<rect rx="6.0" ry="6.0" x="494.0" y="114.0" width="52.0" height="52.0" class="high key"/>
+<text x="520.0" y="140.0" class="high tap">i</text>
+<rect rx="6.0" ry="6.0" x="550.0" y="114.0" width="52.0" height="52.0" class="high key"/>
+<text x="576.0" y="140.0" class="high tap">a</text>
+<rect rx="6.0" ry="6.0" x="74.0" y="170.0" width="52.0" height="52.0" class="medium key"/>
+<text x="100.0" y="196.0" class="medium tap">w</text>
+<rect rx="6.0" ry="6.0" x="130.0" y="170.0" width="52.0" height="52.0" class="medium key"/>
+<text x="156.0" y="196.0" class="medium tap">m</text>
+<rect rx="6.0" ry="6.0" x="186.0" y="170.0" width="52.0" height="52.0" class="medium key"/>
+<text x="212.0" y="196.0" class="medium tap">g</text>
+<rect rx="6.0" ry="6.0" x="242.0" y="170.0" width="52.0" height="52.0" class="medium-low key"/>
+<text x="268.0" y="196.0" class="medium-low tap">b</text>
+<rect rx="6.0" ry="6.0" x="298.0" y="170.0" width="52.0" height="52.0" class="low key"/>
+<text x="324.0" y="196.0" class="low tap">q</text>
+<rect rx="6.0" ry="6.0" x="354.0" y="170.0" width="52.0" height="52.0" class="low key"/>
+<text x="380.0" y="196.0" class="low tap">j</text>
+<rect rx="6.0" ry="6.0" x="410.0" y="170.0" width="52.0" height="52.0" class="medium-high key"/>
+<text x="436.0" y="196.0" class="medium-high tap">d</text>
+<rect rx="6.0" ry="6.0" x="466.0" y="170.0" width="52.0" height="52.0" class="medium-low key"/>
+<text x="492.0" y="196.0" class="medium-low tap">,</text>
+<rect rx="6.0" ry="6.0" x="522.0" y="170.0" width="52.0" height="52.0" class="medium-low key"/>
+<text x="548.0" y="196.0" class="medium-low tap">.</text>
+<rect rx="6.0" ry="6.0" x="578.0" y="170.0" width="52.0" height="52.0" class="low key"/>
+<text x="604.0" y="196.0" class="low tap">/</text>
+</g>
+</svg>

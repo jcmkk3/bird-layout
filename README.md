@@ -2,6 +2,8 @@
 
 ## Layout
 
+*Generated with [keymap-drawer](https://github.com/caksoylar/keymap-drawer)*
+
 ![](keymap-drawer/bird.svg)
 
 <details>
@@ -31,13 +33,19 @@ q w m g b   j d , . /
 
 </details>
 
+![](keymap-drawer/bird-rs.svg)
 
-### bird-rs (angle mod)
+<details>
+
+<summary>text version</summary>
+
 ```
 x c l f v z y o u '
 r s n t p k h e i a
  w m g b q j d , . /
 ```
+
+</details>
 
 Optimized Punctuation: swap `,` -> `'`
 
