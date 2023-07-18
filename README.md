@@ -2,19 +2,35 @@
 
 ## Layout
 
-### bird
+![](keymap-drawer/bird.svg)
+
+<details>
+
+<summary>text version</summary>
+
 ```
-x c l f       y o u '
+x c l f ~   ~ y o u '
 r s n t p   k h e i a
-  w m g b   j d , .  
+~ w m g b   j d , . ~
 ```
 
-### bird-30
+</details>
+
+
+![](keymap-drawer/bird-30.svg)
+
+<details>
+
+<summary>text version</summary>
+
 ```
 x c l f v   z y o u '
 r s n t p   k h e i a
 q w m g b   j d , . /
 ```
+
+</details>
+
 
 ### bird-rs (angle mod)
 ```

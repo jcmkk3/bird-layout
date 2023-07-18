@@ -1,0 +1,12 @@
+layout:
+    ortho_layout:
+        split: true
+        rows: 3
+        columns: 5
+layers:
+    bird-rs:
+    - [x, c, l, f, v, z, y, o, u, "'"]
+    - [r, s, n, t, p, k, h, e, i, a]
+    - [w, m, g, b, q, j, d, ',', ., /]
+draw_config:
+    append_colon_to_layer_header: false
