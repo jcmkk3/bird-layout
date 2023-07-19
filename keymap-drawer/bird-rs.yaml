@@ -1,3 +1,4 @@
+layout: {qmk_info_json: row-stagger.json}
 layers:
     bird-rs (angle mod):
     - [{t: x, type: low},

@@ -105,7 +105,8 @@ rect.medium-high {
 }
 rect.high {
     fill: #FF8585;
-}</style>
+}
+</style>
 <g class="layer-bird">
 <text x="30.0" y="28.0" class="label">bird</text>
 <rect rx="6.0" ry="6.0" x="32.0" y="86.0" width="56.0" height="52.0" class="low key"/>
@@ -160,5 +161,11 @@ rect.high {
 <text x="510.0" y="196.0" class="medium-low tap">,</text>
 <rect rx="6.0" ry="6.0" x="542.0" y="170.0" width="56.0" height="52.0" class="medium-low key"/>
 <text x="570.0" y="196.0" class="medium-low tap">.</text>
+<rect rx="6.0" ry="6.0" x="136.0" y="71.0" width="28.0" height="26.0" class="medium-low"/>
+<text x="150.0" y="84.0" class="medium-low tap">v</text>
+<rect rx="6.0" ry="6.0" x="196.0" y="71.0" width="28.0" height="26.0" class="low"/>
+<text x="210.0" y="84.0" class="low tap">q</text>
+<rect rx="6.0" ry="6.0" x="136.0" y="183.0" width="28.0" height="26.0" class="low"/>
+<text x="150.0" y="196.0" class="low tap">z</text>
 </g>
 </svg>

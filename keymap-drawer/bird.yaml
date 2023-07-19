@@ -33,6 +33,16 @@ layers:
        {t: d, type: medium-high}, 
        {t: ',', type: medium-low},
        {t: ., type: medium-low}]
+combos:
+-   p: [1, 2]
+    k: v
+    type: medium-low
+-   p: [2, 3]
+    k: q
+    type: low
+-   p: [20, 21]
+    k: z
+    type: low
 draw_config:
     append_colon_to_layer_header: false
     svg_style: |
