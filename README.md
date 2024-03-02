@@ -68,6 +68,6 @@ Outcomes of the above goals
 - Top row gravity
 
 ## Credits
-- [Alan](https://github.com/moutis): The [Hands Down](handsdownlayout.com) family of layouts were a big inspiration. I used a variation of HD Neu for almost 2 years before it evolved into the bird layout.
+- [Alan](https://github.com/moutis): The [Hands Down](http://handsdownlayout.com) family of layouts were a big inspiration. I used a variation of HD Neu for almost 2 years before it evolved into the bird layout.
 - [Eve](https://github.com/Apsu): Many of Eve's layouts and experiments were an inspiration and she actively helped with ideas that resulted in this layout.
 - [whoa](https://github.com/bredfield): Was the first person outside of myself to try the bird layout and some of his feedback and ideas were incorporated into the layout.
